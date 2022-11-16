@@ -23,3 +23,5 @@ Double.MAX_VALUE + 1
 **NOTE**
 
 Use *Jshell* to experiment with java
+
+![Alt text](https://i.ytimg.com/vi/7SVSXiWc0-o/maxresdefault.jpg "Optional title")
